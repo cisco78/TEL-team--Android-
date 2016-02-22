@@ -1,0 +1,5 @@
+C:\Users\Cisco Dev Laptop\Google Drive\Android Projects\TheTELTeam\app\build\intermediates\classes\debug
+C:\Users\Cisco Dev Laptop\Google Drive\Android Projects\TheTELTeam\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1eaac9af53214f7b4918303e44ee4930001aea00.jar
+C:\Users\Cisco Dev Laptop\Google Drive\Android Projects\TheTELTeam\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-73405af69e5c14cea125593735ba2a453e218fd7.jar
+C:\Users\Cisco Dev Laptop\Google Drive\Android Projects\TheTELTeam\app\build\intermediates\pre-dexed\debug\classes-38418bac5712a2dcf02ed54e5b59d4a8fcc2216e.jar
+C:\Users\Cisco Dev Laptop\Google Drive\Android Projects\TheTELTeam\app\build\intermediates\pre-dexed\debug\classes-2bbc82704c560ef5aa09f28ff05f5a7d6c01fb60.jar
